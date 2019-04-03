@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{486C1CA0-E53C-744A-CD64-B6CD4F2013BA}") = "Air Hockey", "Assembly-CSharp.csproj", "{27C5E418-332B-12E3-EB1D-DA3805E97BF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27C5E418-332B-12E3-EB1D-DA3805E97BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C5E418-332B-12E3-EB1D-DA3805E97BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C5E418-332B-12E3-EB1D-DA3805E97BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C5E418-332B-12E3-EB1D-DA3805E97BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
